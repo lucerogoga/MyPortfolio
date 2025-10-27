@@ -10,7 +10,7 @@ export const skillIcons = [
     title: "Vue",
   },
    {
-    src: "s",
+    src: "https://raw.githubusercontent.com/lucerogoga/my-portfolio/e64cb567f0d8c0518c59e115798d8ca53009fbe2/src/assets/icon-angular.svg",
     alt: "icon-angular",
     title: "Angular",
   },
