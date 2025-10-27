@@ -3,6 +3,11 @@ import StarIcon from "../svg/StarIcon";
 import Title from "../Title";
 
 const educationList = [
+   {
+    years: "2025",
+    role: "UX & UI DESIGNER",
+    enterprise: "Toulouse Lutrec",
+  },
   {
     years: "2021-2022",
     role: "Front-End Developer",

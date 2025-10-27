@@ -3,6 +3,7 @@ import StarIcon from "../svg/StarIcon";
 import Title from "../Title";
 
 const experienceList = [
+  { years: "2025 - now", role: "Front-End Developer", enterprise: "Praxis" },
   { years: "2022 - 2024", role: "Front-End Developer", enterprise: "Promart" },
   {
     years: "2021-2022",
@@ -10,7 +11,6 @@ const experienceList = [
     enterprise: "Laboratoria",
   },
   { years: "2020 - 2021", role: "TI Support", enterprise: "Ocean SRL" },
-  { years: "2018", role: "TI Support", enterprise: "GL TRACKER" },
 ];
 
 const MyExperience = () => {

@@ -9,6 +9,11 @@ export const skillIcons = [
     alt: "icon-vue",
     title: "Vue",
   },
+   {
+    src: "s",
+    alt: "icon-angular",
+    title: "Angular",
+  },
   {
     src: "https://raw.githubusercontent.com/lucerogoga/my-portfolio/92a764aad499ba719bb9a9597b679a774eb31b3f/src/assets/icon-ts.svg",
     alt: "icon-ts",
@@ -53,10 +58,5 @@ export const skillIcons = [
     src: "https://raw.githubusercontent.com/lucerogoga/my-portfolio/6817e1d81607cedf064d3c1db0cec630ad29d4d9/src/assets/icon-git.svg",
     alt: "icon-git",
     title: "Git",
-  },
-  {
-    src: "https://raw.githubusercontent.com/lucerogoga/my-portfolio/6817e1d81607cedf064d3c1db0cec630ad29d4d9/src/assets/icon-ai.svg",
-    alt: "icon-ai",
-    title: "Illustrator",
   },
 ];
